@@ -1,0 +1,7 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-ben
+
+Name: apertium-ben
+Description: Finite-state morphological transducer and constraint grammar for Bengali 
+Version: 0.1.0
